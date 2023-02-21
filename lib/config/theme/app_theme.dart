@@ -2,13 +2,16 @@ import 'package:flutter/material.dart';
 
 const colorList = <Color>[
   Colors.blue,
+  Colors.blueGrey,
   Colors.teal,
   Colors.green,
   Colors.red,
   Colors.purple,
   Colors.deepPurple,
   Colors.deepOrangeAccent,
-  Colors.pink
+  Colors.pink,
+  Colors.deepPurpleAccent,
+  Colors.purpleAccent
 ];
 
 class AppTheme {
